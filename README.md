@@ -1,8 +1,11 @@
 <p align="center"><img src="https://statamic.com/assets/branding/Statamic-Logo+Wordmark-Rad.svg" width="400" alt="Statamic Logo" /></p>
 
-## Statamic 3 Beta
+## Statamic 3 
 
-Statamic 3 is now in **open beta!** We welcome you try it out, [read the docs](https://statamic.dev), experiment, send [bug reports][contribution], provide thoughtful feedback, and otherwise do anything you feel will make the platform better and more stable for launch.
+Statamic 3 is the flat-first, Laravel + Git powered CMS designed for building beautiful, easy to manage websites.
+
+> Note: This repository is used for collecting Feature Requests. To start your own website project with Statamic, visit the [Statamic application repository](https://github.com/statamic/statamic).
+
 
 ## 💡 Ideas & Feature Requests
 
