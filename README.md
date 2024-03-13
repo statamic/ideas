@@ -9,7 +9,7 @@ Statamic is the flat-first, Laravel + Git powered CMS designed for building beau
 
 ## 💡 Ideas & Feature Requests
 
-This repo is for collecting and discussing ideas and feature requests for Statamic 3. Please check if an idea or FR has been opened already before starting a new thread (issue), but otherwise let's dig in! You can also come chat in the `#v3` channel in [Discord][discord] if you'd like to keep thing real-time.
+This repo is for collecting and discussing ideas and feature requests for Statamic. Please check if an idea or FR has been opened already before starting a new thread (issue), but otherwise let's dig in! You can also come chat in the `#help` channel in [Discord][discord] if you'd like to keep things real-time.
 
 
 ## Code of Conduct
